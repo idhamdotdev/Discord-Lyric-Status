@@ -1,4 +1,4 @@
-# Lyrical Mangonade
+# Discord-Lyric-Status
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 ---
 
-`Lyrical Mangonade` automatically syncs whatever song lyrics you're currently listening to on Spotify straight to your Discord custom status in real-time. It uses multiple lyrics providers to ensure synced lyrics are fetched for almost any track.
+`Discord-Lyric-Status` automatically syncs whatever song lyrics you're currently listening to on Spotify straight to your Discord custom status in real-time. It uses multiple lyrics providers to ensure synced lyrics are fetched for almost any track.
 
 ## Features
 
