@@ -1,0 +1,18 @@
+# Credentials & Configuration
+.env
+.env.local
+.env.*.local
+
+# Spotify Auth Cache
+.spotify_cache
+
+# Python temporary files & environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.pytest_cache/
+.mypy_cache/
