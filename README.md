@@ -19,7 +19,6 @@
 - **Real-Time Sync**: Updates your Discord custom status line-by-line as the song plays.
 - **Multi-Provider Search**: Uses `syncedlyrics` under the hood to search across NetEase, Musixmatch, LRCLib, and Megalobiz for maximum lyric availability.
 - **Auto-Clear**: Automatically removes the custom status when playback is paused or stopped.
-- **Secure Credentials**: Keeps all secrets safe locally via a `.env` file, ensuring no passwords or access tokens are pushed to GitHub.
 - **One-Click Run**: Includes a Windows batch script (`.bat`) that handles library installation and runs the sync.
 
 ---
@@ -47,9 +46,6 @@
    - Send a message in any chat, and search for the `/api/` requests.
    - Look under **Request Headers** for the `Authorization` header value. This is your personal account token.
    - Copy and paste this token into your `.env` file under `DISCORD_TOKEN`. 
-
-> [!WARNING]
-> Keep your `DISCORD_TOKEN` secret. Do not share it with anyone or commit it to your repository.
 
 ---
 
