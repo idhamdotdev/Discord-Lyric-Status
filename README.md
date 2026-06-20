@@ -77,6 +77,16 @@ Simply double-click the **`run discord lyric .bat`** file. It will automatically
 
 ---
 
+## Disclaimer & Terms of Service
+
+This project is for educational and personal use only. Please review the policies below before running the application:
+
+* **Discord Policy**: Using a personal account token to automate actions (self-botting) is against Discord's Terms of Service. Running this script carries a risk of account restriction or suspension. Use at your own discretion and risk.
+* **Spotify Policy**: This project uses the official Spotify Web API for personal, non-commercial purposes in accordance with Spotify's Developer Terms.
+* **Liability**: The author is not responsible for any actions taken against your accounts (such as bans or suspensions) due to the use of this tool.
+
+---
+
 ## Dependencies & Licenses
 
 This project relies on the following third-party open-source libraries:
